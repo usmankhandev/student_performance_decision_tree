@@ -2,3 +2,4 @@
 *.png
 *.svg
 decision_tree_visualization
+*.dot
